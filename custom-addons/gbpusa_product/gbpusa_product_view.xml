@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<openerp>
+  <data>
+
+    <!-- Action to open gbp usa product list -->
+    <act_window id="action_gbpusa_product_list"
+      name="gbpusa product list"
+      res_model="gbpusa_product.list"
+      view_mode="tree,form" />
+
+    <!-- Menu item to open gbp usa product list -->
+    <menuitem id="menu_gbpusa_product_list"
+      name="gbpusa product lists"
+      parent="stock.menu_stock_root"
+      action="action_gbpusa_product_list" />
+
+  </data>
+</openerp>
+

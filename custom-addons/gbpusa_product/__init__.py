@@ -1,0 +1,1 @@
+from . import gbpusa_product_model
