@@ -1,0 +1,6 @@
+ID,Name,address type,Job Position,Is a Company,Related Company/ID,Email,Phone,Mobile,Street,Street2,ZIP,City,State,Country,Website,TIN,Comment,Internal Reference,child_ids/employee,child_ids/street,child_ids/type
+MYID_001,GGG,,,TRUE,,agrolait@yourcompany.example.com,4151234567,,253 Gardenside Avenue,Building 12B,94080,South San Francisco,California,United States,http://www.agrolait.com,,write anything here...,X,,,
+MYID_002,a,,CEO,FALSE,MYID_001,,,,12 Grand Avenue,,94080,San Francisco,California,United States,,,,,,,
+MYID_005,b,Shipping address,,FALSE,MYID_001,,,,12 Grand Avenue,Building 12B,94080,San Francisco,California,United States,,,,,,,
+MYID_003,zzz,,,TRUE,,,,,31 Hong Kong street,,106,Taipei,,,http://www.asustek.com,,,,,,
+MYID_004,abc,,,TRUE,,camptocamp@yourcompany.example.com,+33 4 49 23 44 54,,"93, Press Avenue",,73377,Le Bourget du Lac,,France,,,,,,,

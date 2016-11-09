@@ -1,0 +1,9 @@
+,index,ID,Name,address type,Job Position,Is a Company,Related Company/ID,Email,Phone,Mobile,Street,Street2,ZIP,City,State,Country
+0,0,VA_00000,93 Transport,Invoice address,,True,,,626-589-7622,,93 Transport,1586 W. Lorane Way,92802,Anaheim,CA,United States
+1,1,VA_00001,A&A Logistics,Invoice address,,True,,,,,A&A Logistics,7638 MANZANAR AVE,90660,PICO RIVERA,CA,United States
+2,2,VA_00002,A&T Pallets,Invoice address,,True,,,323-974-8008,,A&T Pallets,1512 DATE ST,90640,MONTEBELLO,CA,United States
+3,3,VA_00003,ABEEO PRODUCE LLC,Invoice address,,True,,,,,ABEEO PRODUCE LLC,P O BOX 722371,92172,SAN DIEGO,CA,United States
+4,0,VA_00004,Wilson,Shipping address,,False,VA_00000,,626-589-7622,,93 Transport,1586 W. Lorane Way,92802,Anaheim,CA,United States
+5,1,VA_00005,,Shipping address,,False,VA_00001,,,,A&A Logistics,7638 MANZANAR AVE,90660,PICO RIVERA,CA,United States
+6,2,VA_00006,JUAN TORRES,Shipping address,,False,VA_00002,,323-974-8008,,A&T Pallets,1512 DATE ST,90640,MONTEBELLO,CA,United States
+7,3,VA_00007,,Shipping address,,False,VA_00003,,,,ABEEO PRODUCE LLC,P O BOX 722371,92172,SAN DIEGO,CA,United States
