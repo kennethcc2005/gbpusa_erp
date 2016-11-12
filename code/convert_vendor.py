@@ -4,7 +4,7 @@ import re
 
 df = pd.read_excel('../data/vendor list.xlsx', sheetname='Sheet1').reset_index().drop('index',axis = 1)
 df2 = pd.read_csv('../data/customers_temp.csv')
-ID = ['VA_0000' + str(i) for i in range(df.shape[0])]
+ID = ['PA_0000' + str(i) for i in range(df.shape[0])]
 Name = list(df.Vendor.values)
 Job_Position = [None for i in range(df.shape[0])]
 Is_Company = [True for i in range(df.shape[0])]

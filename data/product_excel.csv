@@ -1,0 +1,575 @@
+,ID,Name,active,Product Type,Sale Price,Cost,Barcode,Description
+0,PA_00000,"#""JUMBO"" Bok Choy",False,Service,0.0,0.0,00000_20161111,"""JUMBO"" Bok Choy (20lb) Produce of U.S.A"
+1,PA_00001,#Sundries,True,Service,0.0,0.0,00001_20161111,Sundries
+2,PA_00002,#Temperature Recorder,False,Service,10.0,0.0,00002_20161111,Temperature Recorder
+3,PA_00003,#Unloading Labor,False,Service,250.0,0.0,00003_20161111,Unloading Labor
+4,PA_00004,Cold Storage-Beto,True,Service,25.0,0.0,00004_20161111,Term: 7 days
+5,PA_00005,Cold Storage-GBP,True,Service,20.0,0.0,00005_20161111,Term: 14days
+6,PA_00006,Delivery Charge,True,Service,15.0,0.0,00006_20161111,Delivery Charge
+7,PA_00007,Empty Pallet,True,Service,5.0,2.5,00007_20161111,Empty Pallet
+8,PA_00008,In & Out Handling- GBP,True,Service,10.0,0.0,00008_20161111,In & Out Handling Charge
+9,PA_00009,In & Out Handling Charge- Beto,True,Service,15.0,0.0,00009_20161111,In & Out Handling Charge
+10,PA_00010,Repacking Service,True,Service,0.0,0.0,00010_20161111,REPACKING
+11,PA_00011,"""BIG""  Bok Choy",True,Stockable Product,0.0,0.0,00011_20161111,"""BIG"" BOK CHOY (40lb) Produce of U.S.A*********dont use long life"
+12,PA_00012,"""BIG""  Bok Choy(JR)",True,Stockable Product,0.0,0.0,00012_20161111,"""BIG""  Bok Choy jr (20lb) Produce of U.S.A"
+13,PA_00013,"""BIG"" BOK CHOY 20LB",False,Stockable Product,0.0,0.0,00013_20161111,"""BIG"" BOK CHOY(20lb) Produce of U.S.A*"
+14,PA_00014,##Almond Dessert,False,Stockable Product,0.0,0.0,00014_20161111,Almond Dessert 6/32 oz ___ Produce Of U.S.A
+15,PA_00015,##Black Sesame Dessert,False,Stockable Product,0.0,0.0,00015_20161111,Black Sesame Dessert 6/32 oz ___ Produce Of U.S.A
+16,PA_00016,##Egg Tofu,False,Stockable Product,0.0,0.0,00016_20161111,Egg Tofu
+17,PA_00017,##Hon's Seitan,False,Stockable Product,0.0,0.0,00017_20161111,Hon's Seitan 12pk*8oz ____ Produce Of U.S.A
+18,PA_00018,##Hon's Seitan(C),False,Stockable Product,0.0,0.0,00018_20161111,Hon's Seitan(Curry flavor) 16 tray*10.6oz __(__/__) Produce Of U.S.A
+19,PA_00019,##Hon's Seitan(S),False,Stockable Product,0.0,0.0,00019_20161111,Hon's Seitan(Sweet/sour flavor) 16 tray*10.6oz __(__/__) Produce Of U.S.A
+20,PA_00020,#Apricots,False,Stockable Product,0.0,0.0,00020_20161111,Apricots (12ct) __ Produce of U.S.A.
+21,PA_00021,#Asia Pear,False,Stockable Product,0.0,0.0,00021_20161111,Asia Pear(CALIFORNIA) 12CT
+22,PA_00022,#AVACADOS,False,Stockable Product,0.0,0.0,00022_20161111,AVACADOS(36CT) __ Produce of U.S.A
+23,PA_00023,#Baby Carrot,False,Stockable Product,0.0,0.0,00023_20161111,Baby Carrot (30/1) ___ Produce of U.S.A
+24,PA_00024,#Baby potato,False,Stockable Product,0.0,0.0,00024_20161111,Baby potato (50lb) ___ Produce of U.S.A
+25,PA_00025,#bailing murshroom,False,Stockable Product,0.0,0.0,00025_20161111,bailing murshroom
+26,PA_00026,#Banana Regular,False,Stockable Product,0.0,nan,00026_20161111,Banana plamtain __  Produce of U.S.A.
+27,PA_00027,#Blue Berry,False,Stockable Product,0.0,0.0,00027_20161111,Blue Berry __ Produce of U.S.A
+28,PA_00028,#Boiled Bamboo,False,Stockable Product,0.0,0.0,00028_20161111,Boiled Bamboo ___  (case)
+29,PA_00029,#Bok Choy 30lb,False,Stockable Product,0.0,0.0,00029_20161111,Bok Choy (30LB) __  Produce of U.S.A.
+30,PA_00030,#Bok Choy Long Sum,False,Stockable Product,0.0,0.0,00030_20161111,Long Bok Choy Sum (30lb) ____ Produce of U.S.A.
+31,PA_00031,#Buchu,False,Stockable Product,0.0,0.0,00031_20161111,Buchu(50 BUNCH) Produce Of U.S.A
+32,PA_00032,#Cai Con,False,Stockable Product,0.0,0.0,00032_20161111,Cai Con(20lb)
+33,PA_00033,#can nuoc,True,Stockable Product,0.0,0.0,00033_20161111,can nuoc
+34,PA_00034,#Cantalog,False,Stockable Product,0.0,nan,00034_20161111,Cantalog
+35,PA_00035,#Carrot(2LB*24),False,Stockable Product,0.0,0.0,00035_20161111,Carrot(2LB*24) CELLO___ Produce of U.S.A
+36,PA_00036,#Cau Ky((GAO KEE)),False,Stockable Product,36.0,18.0,00036_20161111,Cau Ky(20lb)(GAO KEE)__ Produce of U.S.A.
+37,PA_00037,#Cherry,False,Stockable Product,0.0,nan,00037_20161111,Cherry (18lb)(LOOSE PACK)__ Produce of U.S.A
+38,PA_00038,#Cherry(YELLOW),False,Stockable Product,0.0,0.0,00038_20161111,Cherry(YELLOW) 18LBS ___ Produce of U.S.A
+39,PA_00039,#Chili Leaf,True,Stockable Product,0.0,0.0,00039_20161111,Chili Leaf(20LBS) ___ Produce of U.S.A
+40,PA_00040,#CHIRIMOYA,False,Stockable Product,0.0,0.0,00040_20161111,CHIRIMOYA  (SINGLE LAYER) 10LB __ Produce of U.S.A
+41,PA_00041,#Chongakmoo,False,Stockable Product,0.0,0.0,00041_20161111,Chongakmoo(50CT)
+42,PA_00042,#Coconut 12ct,False,Stockable Product,0.0,nan,00042_20161111,Coconut (12ct)  __ Produce of Thailand
+43,PA_00043,#Coconut MINI,False,Stockable Product,0.0,0.0,00043_20161111,Coconut MINI(32CT) ___
+44,PA_00044,#Dae Pa,False,Stockable Product,0.0,nan,00044_20161111,Dae pa (30ct)
+45,PA_00045,#Dapple Pllots,False,Stockable Product,0.0,nan,00045_20161111,Dapple Pllots (35ct) ___ Produce of U.S.A
+46,PA_00046,#Donut Peach-,False,Stockable Product,0.0,0.0,00046_20161111,Donut Peach (40ct) __ Produce of  U.S.A.
+47,PA_00047,#Eggplant American,False,Stockable Product,0.0,0.0,00047_20161111,American Eggplant (30lb)  ___ Produce of U.S.A
+48,PA_00048,#Flavor Queen Pluot,False,Stockable Product,0.0,0.0,00048_20161111,Flavor Queen Pluot(28lb)____ Produce of U.S.A
+49,PA_00049,#Fragrant Pear 3L,False,Stockable Product,0.0,0.0,00049_20161111,Fragrant Pear 3L __
+50,PA_00050,#Fresh Ginseng,False,Stockable Product,0.0,0.0,00050_20161111,FRESH GINSENG
+51,PA_00051,#Fresh Gobo,False,Stockable Product,0.0,nan,00051_20161111,Fresh Gobo (22lb) __ Produce of Taiwan
+52,PA_00052,#Frozen Mangosteen,False,Stockable Product,0.0,0.0,00052_20161111,Frozen Mangosteen (10lb) ____
+53,PA_00053,#FU JI APPLE 72',False,Stockable Product,0.0,0.0,00053_20161111,FU JI APPLE 72'    ____ Produce of U.S.A
+54,PA_00054,#FU JI APPLE 80',False,Stockable Product,0.0,0.0,00054_20161111,FU JI APPLE 80CT __ Produce of U.S.A
+55,PA_00055,#FU JI APPLE 88',False,Stockable Product,0.0,0.0,00055_20161111,FU JI APPLE 88CT    ____ Produce of U.S.A
+56,PA_00056,#FuJi Apple 100',False,Stockable Product,0.0,nan,00056_20161111,FUJI APPLE 100'S    ____ Produce of U.S.A
+57,PA_00057,"#Fuji Apple 42""",False,Stockable Product,0.0,0.0,00057_20161111,"Fuji Apple 42""   ____ Produce of U.S.A"
+58,PA_00058,#Fuji Apple 48',False,Stockable Product,0.0,0.0,00058_20161111,Fuji Apple 48'   ____ Produce of U.S.A
+59,PA_00059,#FuJi Apple 56',False,Stockable Product,0.0,nan,00059_20161111,FU JI APPLE 56'    ____ Produce of U.S.A
+60,PA_00060,#Garlic 3pc,False,Stockable Product,0.0,0.0,00060_20161111,Garlic 3pc __
+61,PA_00061,#Garlic 4pc,False,Stockable Product,0.0,0.0,00061_20161111,Garlic 4pc Produce of china
+62,PA_00062,#GINGER JUMBO,False,Stockable Product,0.0,0.0,00062_20161111,GINGER JUMBO(30LB)
+63,PA_00063,#Gingko,False,Stockable Product,0.0,0.0,00063_20161111,GINGKO (bag) LOOSE __
+64,PA_00064,#Gingko 55LB,False,Stockable Product,0.0,0.0,00064_20161111,Gingko 55LB __
+65,PA_00065,#Ginko 44lb,False,Stockable Product,0.0,nan,00065_20161111,Ginko 44lb __
+66,PA_00066,#Golden Enoki(150g),False,Stockable Product,0.0,0.0,00066_20161111,#Golden Enoki(150g) 20pk
+67,PA_00067,#Grape-Green,True,Stockable Product,0.0,0.0,00067_20161111,GRAPE-GREEN (16*1LB/CASE) ___ Produce of U.S.A
+68,PA_00068,#Grape-Kyoho,False,Stockable Product,0.0,nan,00068_20161111,Grape-Kyoho  (2lb*10)     Produce of U.S.A
+69,PA_00069,#Grape-Lago,False,Stockable Product,0.0,0.0,00069_20161111,Grape-Lago(12lbs)____ Produce of U.S.A
+70,PA_00070,#Grape Fruit(BIN),False,Stockable Product,0.0,0.0,00070_20161111,Grape Fruit(BIN) Produce of U.S.A
+71,PA_00071,#Grape Peony(Organic) 2x8,True,Stockable Product,0.0,0.0,00071_20161111,Grape Peony(Organic) Produce of U.S.A
+72,PA_00072,#Grape White(cs),False,Stockable Product,0.0,0.0,00072_20161111,Grape White(cs) Produce of U.S.A.
+73,PA_00073,#Grape(BLACK),False,Stockable Product,0.0,0.0,00073_20161111,Grape(BLACK) ___ 19LB Produce of U.S.A
+74,PA_00074,#Guava,True,Stockable Product,0.0,0.0,00074_20161111,GUAVA(20lb) __ Produce of U.S.A
+75,PA_00075,#GUDINA,False,Stockable Product,0.0,0.0,00075_20161111,GUDINA
+76,PA_00076,#Hawaii Ginger,False,Stockable Product,0.0,nan,00076_20161111,Hawaii Ginger ____
+77,PA_00077,#Honey Tangerine,False,Stockable Product,0.0,0.0,00077_20161111,HONEY TANGERINE ___ Produce of U.S.A
+78,PA_00078,#Italian Eggplant,False,Stockable Product,0.0,0.0,00078_20161111,Italian Eggplant (30lb) ____ Produce of U.S.A.
+79,PA_00079,#ITALIAN SQUASH(25LB),False,Stockable Product,0.0,0.0,00079_20161111,ITALIAN SQUASH(25LB) ____ Produce of U.S.A
+80,PA_00080,#Japanese Pickle,False,Stockable Product,0.0,nan,00080_20161111,JAPANESE PICKLE
+81,PA_00081,#Julgi Kenip,False,Stockable Product,0.0,0.0,00081_20161111,Julgi Kenip(50CT)
+82,PA_00082,#KABOCHA(BIN),False,Stockable Product,0.0,0.0,00082_20161111,KABOCHA(BIN)__
+83,PA_00083,#Kenip Dan,False,Stockable Product,0.0,0.0,00083_20161111,Kenip Dan (50 BUNCH) Produce Of U.S.A
+84,PA_00084,#King Oyster (Korean),False,Stockable Product,0.0,nan,00084_20161111,King Oyster (400gx10pk) ___ Produce of Korean
+85,PA_00085,#kinh gio,False,Stockable Product,0.0,nan,00085_20161111,kinh gio
+86,PA_00086,#Kiwi,False,Stockable Product,0.0,0.0,00086_20161111,Kiwi (case) ___ Produce of U.S.A
+87,PA_00087,#Kiwi(BIN),False,Stockable Product,0.0,0.0,00087_20161111,Kiwi(BIN)___ Produce of U.S.A
+88,PA_00088,#Korean Baby Radish with Leaf,False,Stockable Product,0.0,0.0,00088_20161111,Korean Baby Radish with Leaf
+89,PA_00089,#Korean Cucumber,False,Stockable Product,0.0,0.0,00089_20161111,Korean Cucumber
+90,PA_00090,#Korean Pear SINGO,True,Stockable Product,0.0,nan,00090_20161111,Korean Pear SINGO _____(11-12ct)
+91,PA_00091,#Korean Pear Singo(#),True,Stockable Product,0.0,0.0,00091_20161111,Korean Pear SINGO _____ (10ct)
+92,PA_00092,#Korean Pickle,False,Stockable Product,0.0,nan,00092_20161111,KOREAN PICKLE 10LB ____
+93,PA_00093,#Korean Radish with Leaf,False,Stockable Product,0.0,0.0,00093_20161111,Korean Radish with Leaf
+94,PA_00094,#Korean Squash,False,Stockable Product,0.0,0.0,00094_20161111,KOREAN SQUASH ___
+95,PA_00095,#Lemon,False,Stockable Product,0.0,nan,00095_20161111,Lemon 115ct __ Produce of U.S.A
+96,PA_00096,#Lemon (BIN),False,Stockable Product,0.0,0.0,00096_20161111,Lemon (BIN) Produce of U.S.A
+97,PA_00097,#Lemon 165',False,Stockable Product,0.0,0.0,00097_20161111,Lemon 165CT Produce of U.S.A
+98,PA_00098,#Lemon Leaf,False,Stockable Product,0.0,0.0,00098_20161111,Lemon Leaf (5lb)
+99,PA_00099,#Lettuce Butter,False,Stockable Product,0.0,0.0,00099_20161111,Lettuce Butter(24ct) ____
+100,PA_00100,#Lime Leaf,True,Stockable Product,0.0,nan,00100_20161111,Lime Leaf   (lb)
+101,PA_00101,#Lobok Leaf,False,Stockable Product,0.0,nan,00101_20161111,Lobok Leaf
+102,PA_00102,#Long Chili,True,Stockable Product,20.0,10.0,00102_20161111,Long Chili(30lb)___
+103,PA_00103,#Lychee (FL),False,Stockable Product,0.0,0.0,00103_20161111,Lychee 10lb (FL) Produce of U.S.A
+104,PA_00104,#Lychee China,False,Stockable Product,0.0,nan,00104_20161111,Lychee China  (13lb) __
+105,PA_00105,#Lychee China 20LB,False,Stockable Product,0.0,0.0,00105_20161111,Lychee China (20lb)__
+106,PA_00106,#Lychee MEXICO,False,Stockable Product,0.0,0.0,00106_20161111,Lychee MEXICO(15LB)__
+107,PA_00107,#Malungay Leaf,False,Stockable Product,0.0,0.0,00107_20161111,#Malungay Leaf (10LBS)
+108,PA_00108,#Mandarine 5lb,False,Stockable Product,0.0,nan,00108_20161111,Mandarine (5lb) Family Tree
+109,PA_00109,#Mandarines,False,Stockable Product,0.0,0.0,00109_20161111,Mandarines(800~850lb) (bin) ___
+110,PA_00110,#Mandarines Box,False,Stockable Product,0.0,0.0,00110_20161111,Mandarines (22lb) Box ___
+111,PA_00111,#Manilia Mango,False,Stockable Product,0.0,nan,00111_20161111,MANILIA MANGO (16CT) _____
+112,PA_00112,#Maradol Papaya,False,Stockable Product,0.0,0.0,00112_20161111,Maradol Papaya _____
+113,PA_00113,#Mellow Melon,False,Stockable Product,0.0,0.0,00113_20161111,Mellow Melon(10LB) ____
+114,PA_00114,#Minari,False,Stockable Product,0.0,0.0,00114_20161111,Minari(30CT)
+115,PA_00115,#Mini Napa,False,Stockable Product,0.0,0.0,00115_20161111,Mini Napa(30lb)___
+116,PA_00116,#Mini Water melon (BIN),False,Stockable Product,0.0,0.0,00116_20161111,Mini Water melon (BIN)
+117,PA_00117,#Mini Watermelon 11CT,False,Stockable Product,0.0,0.0,00117_20161111,Mini Watermelon 11CT____
+118,PA_00118,#Mini Watermelon 6CT,False,Stockable Product,0.0,0.0,00118_20161111,Mini Watermelon 6CT
+119,PA_00119,#Moap TAIWAN,False,Stockable Product,0.0,0.0,00119_20161111,Taiwan moap(40LB)
+120,PA_00120,#Murcott,False,Stockable Product,0.0,0.0,00120_20161111,MURCOTT (CS) LOOSE
+121,PA_00121,#Muroott(HALO),False,Stockable Product,0.0,0.0,00121_20161111,Muroott(HALO) (3LB*10__
+122,PA_00122,#Mushroon A,False,Stockable Product,0.0,0.0,00122_20161111,Mushroon A
+123,PA_00123,#Nagaimo CH,False,Stockable Product,21.0,nan,00123_20161111,22 lbs @ box/ China
+124,PA_00124,#NAN SHUI PEAR,False,Stockable Product,0.0,0.0,00124_20161111,NANSHI PEAR GIFT BOX (11LBS) ___ PRODUCE OF CHINA
+125,PA_00125,#Napa 30LB,False,Stockable Product,0.0,0.0,00125_20161111,NAPA (30LB) __ Produce of U.S.A.
+126,PA_00126,#Nopales Cactus Leaf,False,Stockable Product,0.0,0.0,00126_20161111,Nopales Cactus Leaf PRODUCE OF MEXICO
+127,PA_00127,#Obha Leaf,False,Stockable Product,0.0,0.0,00127_20161111,Obha Leaf
+128,PA_00128,#On Choy,False,Stockable Product,0.0,0.0,00128_20161111,On Choy (40lb)
+129,PA_00129,#Onion Yellow,False,Stockable Product,16.0,8.0,00129_20161111,Onion Yellow___ Produce of U.S.A
+130,PA_00130,#Opo Long(INDIAN),False,Stockable Product,0.0,0.0,00130_20161111,Opo Long(INDIAN) 30LBS Product of Mexico
+131,PA_00131,#Opo(INDIAN),False,Stockable Product,0.0,0.0,00131_20161111,Opo(INDIAN) 30lbs Product of Mexico
+132,PA_00132,#Orange 48',False,Stockable Product,0.0,0.0,00132_20161111,Orange 48' __ Produce of U.S.A
+133,PA_00133,#Orange 56',False,Stockable Product,0.0,nan,00133_20161111,Orange 56' __ Produce of U.S.A
+134,PA_00134,#Orange 64',False,Stockable Product,0.0,0.0,00134_20161111,Orange 64' __ Produce of U.S.A
+135,PA_00135,#Orange Valanca,False,Stockable Product,0.0,0.0,00135_20161111,Orange Valanca Produce of U.S.A
+136,PA_00136,#Orange88',False,Stockable Product,0.0,0.0,00136_20161111,Orange (88CT)__ Produce of U.S.A
+137,PA_00137,#Oyster Mush USA,True,Stockable Product,36.0,18.0,00137_20161111,Oyster Mush. (5lb) USA ___
+138,PA_00138,#Papaya (Sweet),False,Stockable Product,0.0,0.0,00138_20161111,Papaya (Sweet) 13LBS __
+139,PA_00139,#Papaya Mexico,True,Stockable Product,0.0,0.0,00139_20161111,Papaya Mexico __
+140,PA_00140,#Papaya Strawberry,False,Stockable Product,0.0,0.0,00140_20161111,Papaya Strawberry (case)
+141,PA_00141,#Papaya(TW),False,Stockable Product,0.0,0.0,00141_20161111,Taiwan Papaya(30LBS)____
+142,PA_00142,#Pea tip (Small),False,Stockable Product,0.0,0.0,00142_20161111,Pea tip(Small) 15lb___
+143,PA_00143,#Pearl Onion,False,Stockable Product,0.0,0.0,00143_20161111,Pearl Onion (case) ____
+144,PA_00144,#Pearl Onion GOLD,False,Stockable Product,0.0,0.0,00144_20161111,Pearl Onion GOLD(12PK) _____
+145,PA_00145,#Pearl Onion RED,False,Stockable Product,0.0,0.0,00145_20161111,Pearl Onion RED(12PK) _____
+146,PA_00146,#Pearl Onion WHITE,False,Stockable Product,0.0,0.0,00146_20161111,Pearl Onion WHITE(12PK) _____
+147,PA_00147,#Peeled Big Taro,False,Stockable Product,0.0,nan,00147_20161111,Peeled Big Taro (50lb)  _____
+148,PA_00148,#Peeled Garlic (jar),False,Stockable Product,0.0,nan,00148_20161111,Peeled Garlic (jar) 20lb
+149,PA_00149,#Persimon(20-22),False,Stockable Product,0.0,0.0,00149_20161111,Persimon(20-22ct) Tray pack __
+150,PA_00150,#Persimon(24-26),False,Stockable Product,0.0,0.0,00150_20161111,Persimon(24-26ct) Tray pack __
+151,PA_00151,#Philipian Eggplant,False,Stockable Product,0.0,0.0,00151_20161111,Philipian Eggplant ____ Produce of U.S.A
+152,PA_00152,#Plums,False,Stockable Product,0.0,nan,00152_20161111,Plums(GREEN/YELLOW) 25LBS
+153,PA_00153,#Pluots,False,Stockable Product,0.0,0.0,00153_20161111,Pluots Dapple Dandy (Dino Egg)
+154,PA_00154,#Pomogranate BIN,False,Stockable Product,0.0,0.0,00154_20161111,PomoPomogranate BIN ___ Produce of U.S.A.ranate BIN ___ Produce of U.S.A.
+155,PA_00155,#Purple Lobok,False,Stockable Product,0.0,0.0,00155_20161111,Purple Lobok(korean) 40lb ___
+156,PA_00156,#Putbechu,False,Stockable Product,0.0,0.0,00156_20161111,Putbechu(50ct)
+157,PA_00157,#Raudai,False,Stockable Product,0.0,nan,00157_20161111,RAUDAI
+158,PA_00158,#Red Banana,False,Stockable Product,0.0,0.0,00158_20161111,Red Banana (case)
+159,PA_00159,#Red Chili,False,Stockable Product,0.0,0.0,00159_20161111,Red Chili (10LBS)___
+160,PA_00160,#Red Daikon,False,Stockable Product,0.0,0.0,00160_20161111,Red Daikon(40lb)
+161,PA_00161,#Red Grapes,False,Stockable Product,0.0,nan,00161_20161111,Red Grapes (20lb)  ___
+162,PA_00162,#Red Plum,True,Stockable Product,0.0,0.0,00162_20161111,PLUM(RED) 23LB ___
+163,PA_00163,#Rice,False,Stockable Product,0.0,nan,00163_20161111,Rice
+164,PA_00164,#Shimeji-Brown,False,Stockable Product,0.0,nan,00164_20161111,Shimeji-Brown (30pk)  ___
+165,PA_00165,#Shimeji-White,False,Stockable Product,0.0,nan,00165_20161111,Shimeji-White (30pk)  ___
+166,PA_00166,#Snow Crab,False,Stockable Product,0.0,nan,00166_20161111,Snow Crab (34pk ) ___ Produce of China
+167,PA_00167,#Squash Kadu,False,Stockable Product,0.0,nan,00167_20161111,SQUASH KADU
+168,PA_00168,#Strawberry,False,Stockable Product,0.0,nan,00168_20161111,STRAWBERRY __
+169,PA_00169,#Sugar Plum,False,Stockable Product,0.0,0.0,00169_20161111,SUGAR PLUM (25-28lb) ___
+170,PA_00170,#SUNCHOKE,False,Stockable Product,0.0,0.0,00170_20161111,Sunchoke(case)__
+171,PA_00171,#Tamarind Green,False,Stockable Product,0.0,0.0,00171_20161111,Green Tamarind  __ Produce of Thailand
+172,PA_00172,#Taro Leaf,False,Stockable Product,0.0,0.0,00172_20161111,Taro Leaf
+173,PA_00173,#Termeric,False,Stockable Product,0.0,0.0,00173_20161111,Termeric
+174,PA_00174,#Thai Ginger,False,Stockable Product,0.0,0.0,00174_20161111,THAI GINGER (30LB) ___
+175,PA_00175,#Thai Guava,False,Stockable Product,0.0,nan,00175_20161111,THAI GUAVA 30LB
+176,PA_00176,#Tomato 25LB,False,Stockable Product,0.0,0.0,00176_20161111,Tomato 25LB __
+177,PA_00177,#Tomato 4*5,False,Stockable Product,0.0,0.0,00177_20161111,Tomato 4*5 Proudce of U.S.A
+178,PA_00178,#Tomato Grape,False,Stockable Product,0.0,0.0,00178_20161111,Tomato Grape 20lbs LOOSE
+179,PA_00179,#Water Bamboo (TW),False,Stockable Product,0.0,0.0,00179_20161111,Water Bamboo (TW) 20PK _____ Produce of Taiwan
+180,PA_00180,#Water Caltrop,False,Stockable Product,0.0,0.0,00180_20161111,Water Caltrop __
+181,PA_00181,#Watermelon,False,Stockable Product,30.0,15.0,00181_20161111,Watermelon (4-5CT) __Produce of U.S.A
+182,PA_00182,#White Bittermelon,False,Stockable Product,0.0,nan,00182_20161111,White Bittermelon (30lb)  Produce of U.S.A
+183,PA_00183,#White Bottom Mushroom,False,Stockable Product,0.0,nan,00183_20161111,White Bottom Mushroom (8oz)
+184,PA_00184,#White peach,False,Stockable Product,0.0,0.0,00184_20161111,White peach(32/40) LAYER__
+185,PA_00185,#White Peach gift box,False,Stockable Product,0.0,0.0,00185_20161111,White Peach (22ct) gift box __
+186,PA_00186,#White Yam,False,Stockable Product,0.0,0.0,00186_20161111,White Yam
+187,PA_00187,#Ya Li Pear (88's),False,Stockable Product,0.0,0.0,00187_20161111,Ya Li Pear (88's)  __Produce of China
+188,PA_00188,#Ya Li Pear 16's,False,Stockable Product,0.0,0.0,00188_20161111,Ya Li Pear (16's)  __Produce of USA
+189,PA_00189,#Ya Li Pear 45's,False,Stockable Product,0.0,nan,00189_20161111,Ya Li Pear (45's)  __Produce of China
+190,PA_00190,#Ya Li Pear 56's,True,Stockable Product,0.0,0.0,00190_20161111,Ya Li Pear (56's)  __ Produce of China
+191,PA_00191,#Yali Pear(BIN),True,Stockable Product,0.0,0.0,00191_20161111,Yali Pear(BIN)__
+192,PA_00192,#Yam (red),False,Stockable Product,0.0,0.0,00192_20161111,Yam (red) 40lb
+193,PA_00193,#Yellow Squash,False,Stockable Product,0.0,0.0,00193_20161111,Yellow Squash __ Produce of U.S.A.
+194,PA_00194,#Yellow Tamaric,False,Stockable Product,0.0,0.0,00194_20161111,Yellow Tamaric
+195,PA_00195,#Young Garlic,False,Stockable Product,0.0,0.0,00195_20161111,Young Garlic(30lbs)
+196,PA_00196,#Yulmoo,False,Stockable Product,0.0,0.0,00196_20161111,Yulmoo(50ct)
+197,PA_00197,AC,True,Stockable Product,0.0,nan,00197_20161111,A Choy (25lb)  A _   Produce of U.S.A
+198,PA_00198,ACS,True,Stockable Product,0.0,nan,00198_20161111,A Choy Sum (30-40lb) A__ Produce of U.S.A
+199,PA_00199,AH,False,Stockable Product,0.0,0.0,00199_20161111,Arrow Head (44lb) __ Produce of China
+200,PA_00200,Aloe Vera,False,Stockable Product,0.0,0.0,00200_20161111,Aloe Vera (30lb) __
+201,PA_00201,Antler Mushroom,False,Stockable Product,0.0,0.0,00201_20161111,Antler Mushroom(150g) 20pk___
+202,PA_00202,APPF,True,Stockable Product,0.0,nan,00202_20161111,Fuji Apple (56-64-72-80-88ct) ____ Produce of U.S.A
+203,PA_00203,APPFP,True,Stockable Product,0.0,nan,00203_20161111,Fuji Apple (3lbx12pk) ____ Produce of U.S.A
+204,PA_00204,APPG,True,Stockable Product,0.0,0.0,00204_20161111,Gala Apple (56-64ct) ____ Produce of U.S.A
+205,PA_00205,APPGP,True,Stockable Product,0.0,0.0,00205_20161111,Gala Apple (3lbx12pk) ____ Produce of U.S.A
+206,PA_00206,APPGR,True,Stockable Product,0.0,0.0,00206_20161111,Granny Smith Apple (64ct) ___ Produce of U.S.A
+207,PA_00207,Apple(SWEET AMERAL),False,Stockable Product,0.0,0.0,00207_20161111,Apple(sweet ameral apple)____
+208,PA_00208,Apple(WASHINGTON),False,Stockable Product,0.0,0.0,00208_20161111,Apple(WASHINGTON) pacific Rose 100's(70ct)~27lbs__
+209,PA_00209,APPR,True,Stockable Product,0.0,0.0,00209_20161111,Red Apple (56ct) ___ Produce of U.S.A
+210,PA_00210,AR,True,Stockable Product,0.0,nan,00210_20161111,Arrow Root (44lb) __ Produce of China
+211,PA_00211,Asia Pear(BROWN),True,Stockable Product,0.0,nan,00211_20161111,Brown Asian Pear (10-12)   ___Produce of USA
+212,PA_00212,Asia Pear(CRUNCHY),True,Stockable Product,0.0,nan,00212_20161111,Asia Pear (TRAY) ___ Produce of U.S.A
+213,PA_00213,ASP,True,Stockable Product,0.0,0.0,00213_20161111,Asparagus (11lb) __ Produce of U.S.A.
+214,PA_00214,BABF,True,Stockable Product,0.0,nan,00214_20161111,Fresh Bamboo (22lb) ____ Produce of China
+215,PA_00215,BABG,True,Stockable Product,0.0,nan,00215_20161111,Green Bamboo Shoot (300gx24pk) ___ Produce of China
+216,PA_00216,Baby Banana,False,Stockable Product,0.0,nan,00216_20161111,Baby Banana (15lb) ___
+217,PA_00217,Baby Dill,True,Stockable Product,0.0,0.0,00217_20161111,Baby Dill (1dz) Produce Of USA
+218,PA_00218,Bac Ha,True,Stockable Product,0.0,0.0,00218_20161111,Bac Ha (30lb) __ Pooduce of U.S.A
+219,PA_00219,Banana Leaf,False,Stockable Product,0.0,nan,00219_20161111,Banana Leaf
+220,PA_00220,BANH PHO 10LB,True,Stockable Product,33.0,30.0,00220_20161111,BANH PHO (10LB X 5BAG) __ Produce of U.S.A*************VACUUM PACK
+221,PA_00221,BC70,True,Stockable Product,0.0,nan,00221_20161111,Bok Choy WGA (65-70lb) _____   Produce of U.S.A
+222,PA_00222,BCB,True,Stockable Product,0.0,nan,00222_20161111,Baby Bok Choy (30lb)   ___    Produce of U.S.A
+223,PA_00223,BCBJ,True,Stockable Product,0.0,nan,00223_20161111,Baby Bok Choy Jr. (20lb)  ___  Produce of U.S.A
+224,PA_00224,BCBS,False,Stockable Product,0.0,nan,00224_20161111,Baby Bok Choy Sum (30lb)   ____   Produce of U.S.A
+225,PA_00225,BCL,True,Stockable Product,0.0,nan,00225_20161111,Long Bok Choy (30lb) ___   Produce of U.S.A
+226,PA_00226,BCLJ,False,Stockable Product,0.0,0.0,00226_20161111,Long Bok Choy Jr (30lb) ____   Produce of U.S.A
+227,PA_00227,BCSW,True,Stockable Product,0.0,0.0,00227_20161111,Sweet Bok Choy (25-30lb) ___ Produce of U.S.A.
+228,PA_00228,BCTW,True,Stockable Product,0.0,nan,00228_20161111,Taiwan Bok Choy (30lb)  ____  Produce of U.S.A
+229,PA_00229,Bean Sprout (1.5lb x 24pk),True,Stockable Product,21.0,19.0,00229_20161111,Bean Sprout(1.5lb*24pk)  ___
+230,PA_00230,Bean Sprout (12oz x 12pk),True,Stockable Product,7.5,6.5,00230_20161111,Bean Sprout (12oz*12) ___ Produce of U.S.A
+231,PA_00231,Bean Sprout 10lb,True,Stockable Product,6.0,4.6,00231_20161111,Bean Sprout (10lb) ___ Produce of U.S.A
+232,PA_00232,Beets,True,Stockable Product,0.0,nan,00232_20161111,Beets (25lb) __  Produce of U.S.A.
+233,PA_00233,BF,True,Stockable Product,0.0,nan,00233_20161111,Banana Flower (30lb) ___ Produce of Mexico
+234,PA_00234,Bittermelon Leaf,False,Stockable Product,0.0,0.0,00234_20161111,Bittermelon Leaf (15lbs) ___ Produce of U.S.A
+235,PA_00235,Black Plum,True,Stockable Product,0.0,0.0,00235_20161111,Black Plum (28lb) ___ Produce of U.S.A
+236,PA_00236,BM,True,Stockable Product,0.0,0.0,00236_20161111,Bitter Melon (30lb)  __  Produce of U.S.A
+237,PA_00237,BMB,False,Stockable Product,0.0,0.0,00237_20161111,Bitter Melon(30lb)___ Produce Of U.S.A
+238,PA_00238,BMI,True,Stockable Product,0.0,nan,00238_20161111,Indian Bittermelom (30lb) ____  Produce of U.S.A.
+239,PA_00239,BMW,True,Stockable Product,0.0,0.0,00239_20161111,White Bitter Melon  (35lbs) ____
+240,PA_00240,BNT,True,Stockable Product,0.0,0.0,00240_20161111,Thai Banana (35lb) Produce of Mexico
+241,PA_00241,Bok Choy 50lb,True,Stockable Product,0.0,0.0,00241_20161111,Bok Choy (50lb) __ Produce of U.S.A.
+242,PA_00242,Bok Choy Long (Jr),False,Stockable Product,0.0,0.0,00242_20161111,Bok Choy Long Jr (25lb) ____ produce of U.S.A
+243,PA_00243,BPG,True,Stockable Product,0.0,nan,00243_20161111,Green Bell Pepper (25lb) __ Produce of U.S.A
+244,PA_00244,BPR,True,Stockable Product,0.0,nan,00244_20161111,Red Bell Pepper (25lb) __ Produce of U.S.A
+245,PA_00245,BPY,True,Stockable Product,0.0,nan,00245_20161111,Yellow Bell Pepper (25lb) __ Produce of U.S.A
+246,PA_00246,BROC,True,Stockable Product,0.0,nan,00246_20161111,Broccoli Crown Asia Cut (20-25lb) ___   Produce of U.S.A
+247,PA_00247,Burro banana,False,Stockable Product,0.0,0.0,00247_20161111,Burro banana (case)
+248,PA_00248,CAB,True,Stockable Product,0.0,nan,00248_20161111,Cabbage Jumbo (24ct) ___ Produce of U.S.A
+249,PA_00249,CABR,True,Stockable Product,0.0,0.0,00249_20161111,Cabbage Red (24ct) ___ Produce of U.S.A.
+250,PA_00250,CABT,True,Stockable Product,0.0,0.0,00250_20161111,Korean Cabbage (40lb) _____ Produce of U.S.A
+251,PA_00251,Cantaloupes,True,Stockable Product,0.0,0.0,00251_20161111,Cantaloupes (12ct)___
+252,PA_00252,CAR25,True,Stockable Product,0.0,nan,00252_20161111,Carrot Jumbo (25lb) ___ Produce of U.S.A
+253,PA_00253,Carrot (SARLA),False,Stockable Product,0.0,0.0,00253_20161111,Carrot (SARLA)
+254,PA_00254,CAU12,True,Stockable Product,0.0,0.0,00254_20161111,Cauliflower (12ct) ___ Produce of U.S.A
+255,PA_00255,CAUC,True,Stockable Product,0.0,nan,00255_20161111,Cauliflower (35lb) Produce of China.
+256,PA_00256,CC,True,Stockable Product,0.0,nan,00256_20161111,Ching Chang (30lb) ___ Produce of U.S.A
+257,PA_00257,CCEL,True,Stockable Product,0.0,nan,00257_20161111,Chinese Celery (30lb) __ Produce of U.S.A
+258,PA_00258,CCJ,True,Stockable Product,0.0,nan,00258_20161111,Ching Chang Jr (20lb) ___ Produce of U.S.A
+259,PA_00259,CCS,True,Stockable Product,0.0,nan,00259_20161111,Ching Chang Sum (25-30lb) ___ Produce of U.S.A.
+260,PA_00260,CE,False,Stockable Product,0.0,0.0,00260_20161111,English Cucumber
+261,PA_00261,CEL,True,Stockable Product,0.0,nan,00261_20161111,Celery (24ct) __ Produce of U.S.A
+262,PA_00262,Century Pear,False,Stockable Product,0.0,0.0,00262_20161111,Century Pear (24-36ct) ___  Produce of U.S.A.
+263,PA_00263,CHA,True,Stockable Product,0.0,nan,00263_20161111,Chayote (40lb) ___ Produce of U.S.A.
+264,PA_00264,CHEC,True,Stockable Product,0.0,0.0,00264_20161111,Chestnut (55lb)  __ Product of China
+265,PA_00265,CHEK,True,Stockable Product,0.0,nan,00265_20161111,Chestnut (55lb) __ Produce of Korean
+266,PA_00266,CHER,False,Stockable Product,0.0,0.0,00266_20161111,Cherimoya Loose (cs) __ Produce of U.S.A.
+267,PA_00267,Cherry,False,Stockable Product,0.0,0.0,00267_20161111,Cherry(18LB)(9.5LAW)__
+268,PA_00268,Cherry(YELLOW),False,Stockable Product,0.0,0.0,00268_20161111,Cherry(Yellow) 12pl/1.25lbs(10.5Row)~15lbs__
+269,PA_00269,Chestnut(BABY),True,Stockable Product,0.0,0.0,00269_20161111,Baby Chestnut (20lb)/gunny bag
+270,PA_00270,CHIA,True,Stockable Product,0.0,0.0,00270_20161111,Anaheim Chili (24lb) Produce of Mexico
+271,PA_00271,CHIF,True,Stockable Product,0.0,0.0,00271_20161111,Red Fresno Pepper (10lb) _______ Produce of Mexico
+272,PA_00272,CHIL,True,Stockable Product,0.0,0.0,00272_20161111,Korean Chili (20lb) ____ Produce of Mexico
+273,PA_00273,Chinese Celery(white),False,Stockable Product,0.0,0.0,00273_20161111,Chinese Celery(white) 30lbs ___ Produce of U.S.A.
+274,PA_00274,CHIT,True,Stockable Product,0.0,nan,00274_20161111,Twist Chili (25lb) ___ Produce of Mexico
+275,PA_00275,CHITG,True,Stockable Product,0.0,0.0,00275_20161111,Thai Chili Green (30lb) _____ Produce of U.S.A
+276,PA_00276,CHITM,True,Stockable Product,0.0,nan,00276_20161111,Thai Chili Mix (30lb) ____ Produce of U.S.A.
+277,PA_00277,CHITR,True,Stockable Product,0.0,nan,00277_20161111,Thai Chili Red (30lb) _____ Produce of U.S.A
+278,PA_00278,CIL30,False,Stockable Product,0.0,nan,00278_20161111,Cilantro (30ct) __ Produce of U.S.A
+279,PA_00279,CIL60,True,Stockable Product,0.0,nan,00279_20161111,Cilantro (60ct) __ Produce of U.S.A
+280,PA_00280,CJ,True,Stockable Product,0.0,nan,00280_20161111,Japanese Cucumber (10lb) ____  Produce of U.S.A
+281,PA_00281,CLK,False,Stockable Product,0.0,nan,00281_20161111,Chinese Young Leek (30lb) ____ Produce of U.S.A
+282,PA_00282,COC,True,Stockable Product,0.0,nan,00282_20161111,Coconut (9ct) __ Produce of Thailand
+283,PA_00283,COCD,True,Stockable Product,0.0,0.0,00283_20161111,Dry coconut (20ct) ___ Produce of Mexico
+284,PA_00284,COCF,True,Stockable Product,0.0,nan,00284_20161111,Fresh Coconut (20ct) ____ Produce of Mexico
+285,PA_00285,COCS,True,Stockable Product,0.0,0.0,00285_20161111,Sweet Coconut (24ct) __ Produce of Thailand
+286,PA_00286,CP,True,Stockable Product,0.0,nan,00286_20161111,Persian Cucumber (22lb) ____ Produce of U.S.A
+287,PA_00287,CRI,True,Stockable Product,0.0,0.0,00287_20161111,Crimini Mushroom (10lb) __ Produce of U.S.A
+288,PA_00288,CUC,True,Stockable Product,0.0,0.0,00288_20161111,Cucumber (40lb) __ Produce of U.S.A
+289,PA_00289,Curry Leaf,True,Stockable Product,0.0,0.0,00289_20161111,Curry Leaf (10lb) Produce of U.S.A
+290,PA_00290,Cuties,False,Stockable Product,0.0,0.0,00290_20161111,Cuties(3lb*10pk) case ___
+291,PA_00291,Dap Ca,True,Stockable Product,0.0,0.0,00291_20161111,Dap Ca (60pc) Produce of U.S.A
+292,PA_00292,Dates,True,Stockable Product,0.0,0.0,00292_20161111,Dates(11lb)
+293,PA_00293,DC,True,Stockable Product,0.0,nan,00293_20161111,Chinese Lobok (40lb) ____ Produce of U.S.A.
+294,PA_00294,DG,True,Stockable Product,0.0,nan,00294_20161111,Green Lobok (40lb) ___ Produce of U.S.A.
+295,PA_00295,DJ,True,Stockable Product,0.0,nan,00295_20161111,Japanese Diakon (40lb) ____ Produce of U.S.A.
+296,PA_00296,DK,True,Stockable Product,0.0,nan,00296_20161111,Korean Lobok (40lb) ____ Produce of U.S.A.
+297,PA_00297,Donut Peach,False,Stockable Product,0.0,0.0,00297_20161111,Donut Peach (40ct) __ Produce of  U.S.A.
+298,PA_00298,Dragon Fruit,True,Stockable Product,0.0,nan,00298_20161111,Dragon Fruit (lb) ___ Produce of U.S.A******VIET NAN
+299,PA_00299,Dragon Fruit(RED),True,Stockable Product,0.0,0.0,00299_20161111,Dragon Fruit(RED MEAT) Produce Of U.S.A_____
+300,PA_00300,Durian,True,Stockable Product,0.0,0.0,00300_20161111,Durian _________(lb) __ Produce of Thailand
+301,PA_00301,EC,True,Stockable Product,0.0,0.0,00301_20161111,Chinese Eggplant (30lb) ___ Produce of U.S.A
+302,PA_00302,Egg Tofu,True,Stockable Product,0.0,0.0,00302_20161111,Egg Tofu(CASE) ____
+303,PA_00303,Eggplant Japanese,False,Stockable Product,0.0,0.0,00303_20161111,Eggplant Japanese (30lb) ___ Produce of U.S.A.
+304,PA_00304,Eggplsnt Italian,False,Stockable Product,0.0,0.0,00304_20161111,Eggplant Itilian (30LB) ____ Produce of U.S.A.
+305,PA_00305,EI,True,Stockable Product,0.0,0.0,00305_20161111,Indian Eggplant (30lb) ___ Produce of U.S.A.
+306,PA_00306,ENO100,True,Stockable Product,0.0,nan,00306_20161111,Enoki Mushroom (100gx50pk) ___ Produce of Korea
+307,PA_00307,ENO150,True,Stockable Product,0.0,nan,00307_20161111,Enoki Mushroom (150gx34pk) ___ Produce of Korea
+308,PA_00308,ENO200,True,Stockable Product,0.0,nan,00308_20161111,Enoki Mushroom (200gx25pk) ___ Produce of Korea
+309,PA_00309,EP,True,Stockable Product,0.0,0.0,00309_20161111,Eggplant Philippine (30lb) ____ Produce of U.S.A.
+310,PA_00310,ET,True,Stockable Product,0.0,0.0,00310_20161111,Eggplant Thai (30lb) ___ Produce of U.S.A
+311,PA_00311,Frozen Durian,True,Stockable Product,0.0,0.0,00311_20161111,Frozen Durian (31lbs) ____
+312,PA_00312,Fuyu Persimmon,True,Stockable Product,0.0,nan,00312_20161111,Fuyu Persimmon  (40lb) LOOSE  __ Produce of U.S.A.
+313,PA_00313,GAL,True,Stockable Product,0.0,nan,00313_20161111,Galanga (30lb) __ Produce of Thailand
+314,PA_00314,GAR5,True,Stockable Product,0.0,nan,00314_20161111,Garlic 5pc (30lb) __ Produce of China
+315,PA_00315,GARL,False,Stockable Product,0.0,nan,00315_20161111,Loose Garlic (30lb)  ____ Produce of China
+316,PA_00316,Garlic Steen,False,Stockable Product,0.0,nan,00316_20161111,Garlic Stem (20lb) __ Produce of U.S.A.
+317,PA_00317,Garlic(TAIWAN),False,Stockable Product,0.0,0.0,00317_20161111,Garlic Taiwan (30lb) ____ Produce of Taiwan
+318,PA_00318,GARP20,True,Stockable Product,0.0,nan,00318_20161111,Peeled Garlic 4x5 (20lb) ____ Produce of China
+319,PA_00319,GARP30,True,Stockable Product,0.0,nan,00319_20161111,Peeled Garlic 6x5 (30lb) ____ Produce of China
+320,PA_00320,Gaya Melon,False,Stockable Product,0.0,0.0,00320_20161111,Gaya Melon (10lb) _____ Produce of U.S.A
+321,PA_00321,GB,True,Stockable Product,0.0,nan,00321_20161111,Green Bean (30lb) ___ Produce of U.S.A.
+322,PA_00322,GCB,True,Stockable Product,0.0,0.0,00322_20161111,Big Gai Choy (30-35lb) ___ Produce of U.S.A.
+323,PA_00323,GCS,True,Stockable Product,0.0,nan,00323_20161111,Small Gai Choy (25lb)  ___ Produce of U.S.A.
+324,PA_00324,GG,True,Stockable Product,0.0,nan,00324_20161111,Ginger (30lb) __ Produce of China
+325,PA_00325,GINL,True,Stockable Product,0.0,0.0,00325_20161111,Ginkgo Fresh Loose (22lb) ____ Produce of China
+326,PA_00326,GINP,True,Stockable Product,0.0,nan,00326_20161111,Ginkgo Nut (100gx100pk) __ Produce of China
+327,PA_00327,GL,True,Stockable Product,0.0,nan,00327_20161111,Gai Lan (25-30lb) __ Produce of U.S.A.***
+328,PA_00328,GLJ,True,Stockable Product,0.0,nan,00328_20161111,Gai Lan Tip (20lb) ___ Produce of U.S.A.
+329,PA_00329,GO,True,Stockable Product,0.0,nan,00329_20161111,Green Onion M/L (48ct) __ Produce of U.S.A.
+330,PA_00330,GOB,True,Stockable Product,0.0,nan,00330_20161111,Golden Gobo (22lb) ____ Produce of Taiwan
+331,PA_00331,GOI,True,Stockable Product,0.0,0.0,00331_20161111,Green Onion Iceless (24ctx2) __ Produce of U.S.A.
+332,PA_00332,Golden Kiwi,True,Stockable Product,0.0,nan,00332_20161111,Golden Kiwi (case) _____ Produce of U.S.A.
+333,PA_00333,Golden Melon,False,Stockable Product,0.0,0.0,00333_20161111,Golden Melon(35lb)
+334,PA_00334,GP,True,Stockable Product,0.0,0.0,00334_20161111,Green Papaya (35lb) ___ Produce of U.S.A.
+335,PA_00335,Grape-CHAMPAGNE,False,Stockable Product,0.0,0.0,00335_20161111,Grape-CHAMPAGNE(16PK)____
+336,PA_00336,Grape-Peony,True,Stockable Product,0.0,nan,00336_20161111,Grape-Peony (6pk x 3lb) __ Produce of U.S.A.
+337,PA_00337,Grape Korean,False,Stockable Product,0.0,0.0,00337_20161111,Grape Korean  (4lb x 4pk) Produce of U.S.A
+338,PA_00338,Grapefruit,True,Stockable Product,0.0,0.0,00338_20161111,Grapefruit (case) Produce of U.S.A
+339,PA_00339,Grapes-Red,True,Stockable Product,0.0,nan,00339_20161111,Grapes -Red (16*1LB/CASE) ___ Produce of U.S.A
+340,PA_00340,Grapes Yellow,False,Stockable Product,0.0,0.0,00340_20161111,Grapes Yellow(16*11lbs)___
+341,PA_00341,Green Chard,False,Stockable Product,0.0,0.0,00341_20161111,Green Chard (case)___
+342,PA_00342,Green Collard,False,Stockable Product,0.0,0.0,00342_20161111,Green Collard (2doz)
+343,PA_00343,Green Mango,True,Stockable Product,0.0,nan,00343_20161111,Green Mango (40LB) ___ Produce of U.S.A.
+344,PA_00344,HAB,True,Stockable Product,0.0,0.0,00344_20161111,Habanero Pepper (10lb) _____ Produce of Mexico
+345,PA_00345,HACHIAYA(BIN),True,Stockable Product,0.0,0.0,00345_20161111,Hachiya (BIN) ____ Produce of U.S.A.
+346,PA_00346,Hachiya,True,Stockable Product,0.0,nan,00346_20161111,Hachiya (40lb) ____ Produce of U.S.A.
+347,PA_00347,Hachiya.,True,Stockable Product,0.0,0.0,00347_20161111,Hachiya (25lb) Produce of U.S.A.
+348,PA_00348,HAN,True,Stockable Product,0.0,nan,00348_20161111,Hanalogo (11lb) __ Produce of China
+349,PA_00349,Hawaii Basil,False,Stockable Product,0.0,nan,00349_20161111,Hawaii Basil (14lb) ______ Produce of U.S.A.
+350,PA_00350,Honey Dew,True,Stockable Product,0.0,nan,00350_20161111,Honey Dew (6's)  ___ Produce of U.S.A.
+351,PA_00351,Honey Peach,False,Stockable Product,0.0,0.0,00351_20161111,Honey Peach(24lbs)
+352,PA_00352,Hung Gay,True,Stockable Product,0.0,0.0,00352_20161111,Hung Gay (60ct)  Produce of U.S.A.
+353,PA_00353,JAL,True,Stockable Product,0.0,nan,00353_20161111,Jalapeno (35-40lb) _____ Produce of U.S.A.
+354,PA_00354,Janpanese Chill,True,Stockable Product,0.0,0.0,00354_20161111,Janpanese Chill (23lb) ____ Produce of Mexico
+355,PA_00355,Japanese Peach,False,Stockable Product,0.0,0.0,00355_20161111,Japanese Peach (16-18ct)  ___
+356,PA_00356,JF,True,Stockable Product,0.0,nan,00356_20161111,Jack Fruit (cs) __________Lbs. Produce of Mexico
+357,PA_00357,JIC,True,Stockable Product,0.0,0.0,00357_20161111,Jicama (40lb) __ Produce of U.S.A.
+358,PA_00358,Jujube,True,Stockable Product,0.0,nan,00358_20161111,Jujube (35lb) __ Produce of U.S.A.
+359,PA_00359,Jujube(LONG),False,Stockable Product,0.0,0.0,00359_20161111,Jujube(LONG) 25LBS ___
+360,PA_00360,Jumbo Bok Choy,True,Stockable Product,0.0,nan,00360_20161111,Jumbo Bok Choy (20lb) __ Produce of U.S.A.
+361,PA_00361,K Gioi,True,Stockable Product,0.0,0.0,00361_20161111,K Gioi (60ct) Produce of U.S.A.
+362,PA_00362,KAB,True,Stockable Product,0.0,0.0,00362_20161111,Kabocha (10-14ct) (35lb) ____ Produce of U.S.A.
+363,PA_00363,KAL,True,Stockable Product,0.0,0.0,00363_20161111,Kale (24ct) ___ Produce of U.S.A
+364,PA_00364,Kiaware (Diakon Sprouts),True,Stockable Product,0.0,nan,00364_20161111,Kiaware (Daikon Sprout) Produce of U.S.A.
+365,PA_00365,KO,True,Stockable Product,0.0,nan,00365_20161111,King Oyster (11lb) ___ Produce of China
+366,PA_00366,KOH,True,Stockable Product,0.0,nan,00366_20161111,Kohlrabi (40lb) ___ Produce of U.S.A.
+367,PA_00367,KOK,True,Stockable Product,0.0,0.0,00367_20161111,King Oyster (300gx15pk) ___ Produce of Korea
+368,PA_00368,KOO,True,Stockable Product,0.0,0.0,00368_20161111,King Oyster Organic (270gx10pk) _____ Produce of U.S.A
+369,PA_00369,Korean Golden Pear (GIFT),True,Stockable Product,14.0,13.0,00369_20161111,Korean Golden Pear (gift box) _____ Produce of Korea************YELLOW
+370,PA_00370,Korean Pear GOLDEN,True,Stockable Product,0.0,0.0,00370_20161111,Korean Pear Golden _____ Produce of Korea
+371,PA_00371,Korean Singo Pear  (GIFT),True,Stockable Product,0.0,nan,00371_20161111,Korean Singo Pear (gift box) _____ Produce of Korea************BROWN
+372,PA_00372,LB,True,Stockable Product,0.0,nan,00372_20161111,Long Bean (30lb) ___ Produce of U.S.A.
+373,PA_00373,LBW,True,Stockable Product,0.0,nan,00373_20161111,White Long Bean (30lb) ___ Produce of U.S.A
+374,PA_00374,LEEK,True,Stockable Product,0.0,nan,00374_20161111,Leek (12ct) __ Produce of U.S.A.
+375,PA_00375,LEM,True,Stockable Product,0.0,0.0,00375_20161111,Lemon (115-140-165ct) __ Produce of U.S.A.
+376,PA_00376,LETC,True,Stockable Product,0.0,nan,00376_20161111,Lettuce Wrap (24ct) ____ Produce of U.S.A.
+377,PA_00377,LETL,False,Stockable Product,0.0,nan,00377_20161111,Lettuce Liner (24ct) __ Produce of U.S.A.
+378,PA_00378,LETR,True,Stockable Product,0.0,nan,00378_20161111,Romain Lettuce (24ct) ____ Produce of U.S.A.
+379,PA_00379,LG,True,Stockable Product,0.0,nan,00379_20161111,Green Leaf (24ct) ____ Produce of U.S.A.
+380,PA_00380,LGS,True,Stockable Product,0.0,0.0,00380_20161111,Lemon Grass (40lb) __ Produce of U.S.A
+381,PA_00381,LIL,True,Stockable Product,0.0,nan,00381_20161111,Lily Bulb (22lb) __ Produce of China
+382,PA_00382,LIM,True,Stockable Product,0.0,0.0,00382_20161111,Lime (175ct) ___ Produce of U.S.A.
+383,PA_00383,LNP,True,Stockable Product,0.0,0.0,00383_20161111,Long Napa (40lb) ___ Produce of U.S.A.
+384,PA_00384,Long An (FL),False,Stockable Product,0.0,0.0,00384_20161111,Long An 10lb(FL)
+385,PA_00385,Long An (Viet Nan),True,Stockable Product,0.0,nan,00385_20161111, Long An (11lb)  __
+386,PA_00386,Long An China,False,Stockable Product,0.0,nan,00386_20161111,Long An China (14lb) __ Produce of China
+387,PA_00387,LOT,True,Stockable Product,0.0,nan,00387_20161111,Lotus Root (44lb) __ Produce of China
+388,PA_00388,LR,True,Stockable Product,0.0,nan,00388_20161111,Red Leaf (24ct)  ____ Produce of U.S.A.
+389,PA_00389,LS,True,Stockable Product,0.0,nan,00389_20161111,Lotus Root Slice (450gx22pk) ____ Produce of China
+390,PA_00390,Lychee China,False,Stockable Product,0.0,nan,00390_20161111,Lychee China (13lb) __ Produce of China
+391,PA_00391,Lychee Taiwan,False,Stockable Product,0.0,nan,00391_20161111,Lychee Taiwan (13lb)  ____ Produce of Taiwan
+392,PA_00392,MAI,True,Stockable Product,0.0,nan,00392_20161111,Maitaki Organic (100gx24pk) ____ Produce of U.S.A.
+393,PA_00393,Mango,True,Stockable Product,0.0,nan,00393_20161111,Mango (4-6CT) KENT __ Produce of Mexico
+394,PA_00394,Mango Steen,True,Stockable Product,0.0,0.0,00394_20161111,Mango Steen 15lb __ Produce of Thailand
+395,PA_00395,Mango(ATAULFO),True,Stockable Product,0.0,0.0,00395_20161111,Mango(ATAULFO) ___
+396,PA_00396,Manilia Mango,False,Stockable Product,0.0,0.0,00396_20161111,Manilia Mango (12-14-16-18-20  CT) _____ Produce of Mexico
+397,PA_00397,MeloGold,False,Stockable Product,0.0,0.0,00397_20161111,Melod Gold (bin) ____ Produce of U.S.A.
+398,PA_00398,Mexico Squash,False,Stockable Product,0.0,0.0,00398_20161111,Mexico Squash(__)
+399,PA_00399,MG,True,Stockable Product,0.0,0.0,00399_20161111,Moa Gua (40lb) __ Produce of U.S.A.
+400,PA_00400,MH,True,Stockable Product,0.0,nan,00400_20161111,Hami Melon (5CT) ___ Produce of U.S.A.
+401,PA_00401,Minari,False,Stockable Product,0.0,0.0,00401_20161111,Minari(30CT)
+402,PA_00402,Mini Watermelon,False,Stockable Product,0.0,nan,00402_20161111,Mini Watermelon (6-8-10-12ct) ____ Produce of U.S.A.
+403,PA_00403,Minneola Tangelos,False,Stockable Product,0.0,0.0,00403_20161111,Minneola Tangelos (cs)
+404,PA_00404,Minneola Tangelos (BIN),False,Stockable Product,350.0,175.0,00404_20161111,Minneola Tangelos (BIN)
+405,PA_00405,Mint,True,Stockable Product,0.0,0.0,00405_20161111,Mint (60ct) __ Produce of U.S.A.******GBP only
+406,PA_00406,MK,True,Stockable Product,0.0,nan,00406_20161111,Korean Melon (10lb) ____ Produce of U.S.A
+407,PA_00407,MON,True,Stockable Product,0.0,0.0,00407_20161111,Montoi (25lb) ___ Produce of U.S.A.
+408,PA_00408,MP,True,Stockable Product,0.0,0.0,00408_20161111,Moap (30lb) __ Produce of U.S.A.
+409,PA_00409,NAG,True,Stockable Product,0.0,0.0,00409_20161111,Nagaimo (22lb) __ Produce of Japan
+410,PA_00410,Name,True,Stockable Product,0.0,0.0,00410_20161111,Name(40lbs) Produce of U.S.A.
+411,PA_00411,NF,True,Stockable Product,0.0,0.0,00411_20161111,Nira Flower (10lb) ___ Produce of U.S.A
+412,PA_00412,NG25,True,Stockable Product,0.0,nan,00412_20161111,Nira Green (25lb) __ Produce of U.S.A***black box  (bally)
+413,PA_00413,NG30,True,Stockable Product,0.0,0.0,00413_20161111,Nira Green (30lb) __ Produce of U.S.A***Local
+414,PA_00414,Ngo gai,True,Stockable Product,0.0,0.0,00414_20161111,Ngo Gai (14lb)
+415,PA_00415,Ngo Om,True,Stockable Product,0.0,0.0,00415_20161111,Ngo Om (12lb)
+416,PA_00416,NP,True,Stockable Product,0.0,nan,00416_20161111,Napa (50lb) __ Produce of U.S.A.
+417,PA_00417,NP70,True,Stockable Product,0.0,0.0,00417_20161111,Napa WGA (65-70lb) __ Produce of U.S.A
+418,PA_00418,NY15,True,Stockable Product,0.0,nan,00418_20161111,Nira Yellow (15lb) __ Produce of U.S.A
+419,PA_00419,NY20,True,Stockable Product,0.0,nan,00419_20161111,Nira Yellow (20lb) __ Produce of U.S.A***
+420,PA_00420,Okra,True,Stockable Product,0.0,0.0,00420_20161111,Okra (20lb) __ Produce of U.S.A
+421,PA_00421,ON,True,Stockable Product,0.0,nan,00421_20161111,Onion Jumbo (50lb) __ Produce of U.S.A
+422,PA_00422,ONR,True,Stockable Product,0.0,0.0,00422_20161111,Onion Red (25lb) ___ Produce of U.S.A
+423,PA_00423,ONW,True,Stockable Product,0.0,0.0,00423_20161111,Onion White (50lb) ___ Produce of U.S.A
+424,PA_00424,OPO,True,Stockable Product,0.0,14.0,00424_20161111,Opo (40lb) __ Produce of U.S.A
+425,PA_00425,ORA,True,Stockable Product,0.0,nan,00425_20161111,Orange (48-56-64-72-80-88ct) __ Produce of U.S.A
+426,PA_00426,ORAB,False,Stockable Product,0.0,0.0,00426_20161111,Orange (bin) __ Produce of U.S.A
+427,PA_00427,ORAG,False,Stockable Product,0.0,0.0,00427_20161111,Orange Gift Box (22ct) __ Produce of U.S.A
+428,PA_00428,Orange TX,False,Stockable Product,0.0,0.0,00428_20161111,Orange TX (40lb) ___ Produce of U.S.A
+429,PA_00429,ORO,False,Stockable Product,0.0,0.0,00429_20161111,Oroblanco (22lb) ___ Produce of U.S.A
+430,PA_00430,OROB,False,Stockable Product,0.0,nan,00430_20161111,Oroblanco (Bin aprox. 600lb) ___ Produce of U.S.A
+431,PA_00431,OY10,True,Stockable Product,0.0,0.0,00431_20161111,Oyster Mushroom (10lb) ___ Produce of China
+432,PA_00432,OY5,True,Stockable Product,0.0,nan,00432_20161111,Oyster Mushroom (5lb) ___ Produce of CHINA
+433,PA_00433,OYK,True,Stockable Product,0.0,0.0,00433_20161111,Oyster (case) 300g*10pk Produce of Korea.
+434,PA_00434,OYP,True,Stockable Product,0.0,0.0,00434_20161111,Oyster (case) 8oz*16pk Product of U.S.A
+435,PA_00435,PARC,True,Stockable Product,0.0,0.0,00435_20161111,Parsley Curly (60ct) ____ Produce of U.S.A
+436,PA_00436,PARI,True,Stockable Product,0.0,0.0,00436_20161111,Parsley Italian (60ct) ____ Produce of U.S.A
+437,PA_00437,PEA,True,Stockable Product,0.0,nan,00437_20161111,Peanuts Raw (50lb) ___ Produce of U.S.A
+438,PA_00438,PEAF,True,Stockable Product,0.0,0.0,00438_20161111,Peanut Fresh (35lb) ____ Produce of U.S.A
+439,PA_00439,PER,True,Stockable Product,0.0,0.0,00439_20161111,Permelo (6-10ct) ___ Produce of U.S.A
+440,PA_00440,PERB,False,Stockable Product,0.0,nan,00440_20161111,Permelo (bin) ___ Produce of U.S.A
+441,PA_00441,Persimmon(BIN),True,Stockable Product,0.0,0.0,00441_20161111,Persimmon(BIN)
+442,PA_00442,Persimon,True,Stockable Product,0.0,0.0,00442_20161111,Persimon Tray Pack (17-18-20-22-24-26ct) __ Produce of U.S.A
+443,PA_00443,Persimon (LOOSE),True,Stockable Product,0.0,0.0,00443_20161111,Persimon Loose (40lb) __ Produce of U.S.A
+444,PA_00444,Persimon(BIN),False,Stockable Product,0.0,0.0,00444_20161111,Persimon (bin)
+445,PA_00445,Persimon(LOOSE),True,Stockable Product,0.0,0.0,00445_20161111,Persimon Loose (25lb) Produce of U.S.A
+446,PA_00446,PF,True,Stockable Product,0.0,0.0,00446_20161111,Fragrant Pear (16lb) __ Produce of China
+447,PA_00447,PH,True,Stockable Product,0.0,nan,00447_20161111,Hawaii Papaya (7~9ct)  _____   Produce of U.S.A.
+448,PA_00448,PIC,True,Stockable Product,0.0,nan,00448_20161111,Pickle (40lb) ___ Produce of U.S.A
+449,PA_00449,Pineapples,True,Stockable Product,0.0,nan,00449_20161111,Pineapples (6-8-10ct) __ Produce of U.S.A
+450,PA_00450,PKS,True,Stockable Product,0.0,0.0,00450_20161111,Korean Pear Singo (8-12ct) _____ Produce of Korea
+451,PA_00451,PNG,False,Stockable Product,0.0,0.0,00451_20161111,Nan Shui Pear Gift Box (9ct) ___ Produce of China
+452,PA_00452,PNP,False,Stockable Product,0.0,0.0,00452_20161111,Nan Shui Pear (2pcX12pk) ___ Produce of China
+453,PA_00453,Poach Bamboo,False,Stockable Product,0.0,0.0,00453_20161111,Poach Bamboo
+454,PA_00454,Pomogranate,True,Stockable Product,0.0,nan,00454_20161111,Pomogranate case ___
+455,PA_00455,POR,True,Stockable Product,0.0,0.0,00455_20161111,Portabella Mushroom (5lb) _____ Produce of U.S.A
+456,PA_00456,POT,True,Stockable Product,0.0,0.0,00456_20161111,Potato (50lb) ___ Produce of U.S.A
+457,PA_00457,Potato(RUSSET),True,Stockable Product,0.0,0.0,00457_20161111,Potato(RUSSET) 50LBS __(___)
+458,PA_00458,POTR,True,Stockable Product,0.0,0.0,00458_20161111,Potato Red (40lb) ____ Produce of U.S.A
+459,PA_00459,POTW,True,Stockable Product,0.0,0.0,00459_20161111,Potato White (40lb) ____ Produce of U.S.A
+460,PA_00460,PR,False,Stockable Product,0.0,0.0,00460_20161111,Royal Papaya (12lb) __
+461,PA_00461,PS,True,Stockable Product,0.0,nan,00461_20161111,Pea Sprout (8ozx24pk) _____ Produce of U.S.A
+462,PA_00462,PSY,True,Stockable Product,0.0,19.0,00462_20161111,Sand Pear (22lb) ___ Produce of China
+463,PA_00463,PT,True,Stockable Product,0.0,nan,00463_20161111,Pea Tip (15lb) ___ Produce of U.S.A
+464,PA_00464,PTP,True,Stockable Product,0.0,0.0,00464_20161111,Pea Tip Picked (10-15lb) _____ Produce of U.S.A
+465,PA_00465,Pumpkin(BIN),True,Stockable Product,0.0,0.0,00465_20161111,Pumpkin(BIN)
+466,PA_00466,PY,True,Stockable Product,0.0,nan,00466_20161111,Ya Li Pear (64-72ct) __ Produce of China
+467,PA_00467,PY72,True,Stockable Product,0.0,nan,00467_20161111,Ya Li Pear (72ct) __ Produce of China
+468,PA_00468,PY80,True,Stockable Product,0.0,0.0,00468_20161111,Ya Li Pear (80ct) __ Produce of China
+469,PA_00469,Quail Egg,True,Stockable Product,0.0,0.0,00469_20161111,Quail Egg (15pcx40pk) ___ Produce of U.S.A
+470,PA_00470,Radish,False,Stockable Product,0.0,0.0,00470_20161111,Radish (25lb)
+471,PA_00471,Ram,True,Stockable Product,0.0,0.0,00471_20161111,Ram (60ct) Produce of U.S.A.
+472,PA_00472,RAMB,False,Stockable Product,0.0,nan,00472_20161111,Rambutan (4.4lb) ___ Produce of Thailand
+473,PA_00473,RAMB(M),True,Stockable Product,0.0,0.0,00473_20161111,Rambutan (15lb) ___ Produce of Mexico
+474,PA_00474,Rau Dang,True,Stockable Product,0.0,0.0,00474_20161111,Rau Dang (20lb) Produce of U.S.A.
+475,PA_00475,Rau Day,True,Stockable Product,0.0,0.0,00475_20161111,Rau Day (cs)
+476,PA_00476,Rau Ram,True,Stockable Product,0.0,0.0,00476_20161111,Rau Ram (60ct) ___ Produce of U.S.A
+477,PA_00477,Red Chard,False,Stockable Product,0.0,0.0,00477_20161111,Red Chard (case) ___
+478,PA_00478,Red Cherry,False,Stockable Product,0.0,0.0,00478_20161111,Red Cherry(8 bag/2.25lbs~18lbs)
+479,PA_00479,Red Jelepano,False,Stockable Product,0.0,0.0,00479_20161111,Red Jelepano ___
+480,PA_00480,Rice Stick,False,Stockable Product,23.0,20.4,00480_20161111,Rice Stick Noodle (Banh Pho) 5LB
+481,PA_00481,RSC,True,Stockable Product,0.0,0.0,00481_20161111,Red Shen Choy (25lb) ___ Produce of U.S.A.
+482,PA_00482,RSCJ,True,Stockable Product,0.0,0.0,00482_20161111,Red Shen Choy Jr (20lb) ____ Produce of U.S.A
+483,PA_00483,Ruama,True,Stockable Product,0.0,0.0,00483_20161111,Ruama (12lb) Produce of U.S.A.
+484,PA_00484,Saluyat,True,Stockable Product,0.0,0.0,00484_20161111,Saluyat (20lb) Produce of U.S.A.
+485,PA_00485,Sand Pear (BROWN),True,Stockable Product,0.0,0.0,00485_20161111,Sand Pear (Brown) 22lb ___ Produce of China
+486,PA_00486,Sand Pear (GOLDEN),True,Stockable Product,0.0,0.0,00486_20161111,Sand Pear (GOLDEN)  22lb ___   Produce of China
+487,PA_00487,Sand Pear(12*4),True,Stockable Product,0.0,0.0,00487_20161111,Sand Pear (GOLDEN)  12*4pk ___   Produce of China
+488,PA_00488,Sand Pear(8*3),True,Stockable Product,0.0,0.0,00488_20161111,Sand Pear (GOLDEN)  8*3PK ___   Produce of China
+489,PA_00489,SCG,False,Stockable Product,0.0,0.0,00489_20161111,Sugarcane Green (40lb) __ Produce of U.S.A
+490,PA_00490,SCR,True,Stockable Product,36.0,18.0,00490_20161111,Sugarcane Red (40lb) __ Produce of U.S.A
+491,PA_00491,SEA,True,Stockable Product,0.0,0.0,00491_20161111,Seafood Mushroom (150gx40pk) ___ Produce at china
+492,PA_00492,Seasami Leaf,False,Stockable Product,0.0,0.0,00492_20161111,Seasami Leaf (50CT)
+493,PA_00493,SER,True,Stockable Product,0.0,0.0,00493_20161111,Serrano (40lb) ______ Produce of U.S.A
+494,PA_00494,SG,True,Stockable Product,0.0,nan,00494_20161111,Sing Gua Long (30-35lb) __ Produce of U.S.A.
+495,PA_00495,SHAC,True,Stockable Product,0.0,nan,00495_20161111,Shallot (40lb) ___ Produce of China
+496,PA_00496,SHAF,True,Stockable Product,0.0,nan,00496_20161111,Shallot USA (40lb) ___ Produce of U.S.A.
+497,PA_00497,SHAP,False,Stockable Product,0.0,0.0,00497_20161111,Peeed Shallot (5lbx4pk) _____  Produce of U.S.A
+498,PA_00498,SHI,True,Stockable Product,0.0,nan,00498_20161111,Shitake Mushroom (11lb) ___ Produce of China
+499,PA_00499,SHIB,True,Stockable Product,0.0,0.0,00499_20161111,Shimeji Brown (150gx40pk) ___ Produce of China
+500,PA_00500,SHIBO,True,Stockable Product,0.0,0.0,00500_20161111,Shimeji Brown Organic (100gx24pk) _____ Produce of U.S.A
+501,PA_00501,SHIW,True,Stockable Product,0.0,0.0,00501_20161111,Shimeji White (150gx40pk) ___ Produce of China
+502,PA_00502,SHIWO,True,Stockable Product,0.0,nan,00502_20161111,Shimeji White Organic (100gx24pk) _____ Produce of U.S.A
+503,PA_00503,SI,True,Stockable Product,0.0,nan,00503_20161111,Italian Squash (40lb) ____ Produce of U.S.A.
+504,PA_00504,Singo Pear,True,Stockable Product,0.0,0.0,00504_20161111,Singo Pear (11lb) ___ Produce of China
+505,PA_00505,Singo Pear(gift box),False,Stockable Product,20.0,10.0,00505_20161111,Singo Pear Gift Box (9ct) ___ Produce of China
+506,PA_00506,SLH,True,Stockable Product,0.0,0.0,00506_20161111,She Li Hon (30lb) ___ Produce of U.S.A.
+507,PA_00507,SNAP,True,Stockable Product,0.0,0.0,00507_20161111,Snap Pea (10lb) __ Produce of U.S.A.
+508,PA_00508,SNOP,True,Stockable Product,0.0,nan,00508_20161111,Snow Pea (10lb)  __ Produce of U.S.A.
+509,PA_00509,Soy Bean Sprout  (12oz x 12pk),True,Stockable Product,9.5,8.4,00509_20161111,Soy Bean Sprout  (12oz x 12pk)  ___ Produce of U.S.A
+510,PA_00510,Soy Bean Sprout 10lb,True,Stockable Product,6.0,4.3,00510_20161111,Soy Bean Sprout (10lb) ___ Produce of U. S.A
+511,PA_00511,SP,True,Stockable Product,0.0,nan,00511_20161111,Spinach (24ct) __ Produce of U.S.A.
+512,PA_00512,SPTW,True,Stockable Product,0.0,0.0,00512_20161111,Taiwan Spinach (20-25lb) ____ Produce of U.S.A.
+513,PA_00513,Start Fruit,False,Stockable Product,0.0,nan,00513_20161111,Start Fruit (8lb) __ Produce of Taiwan
+514,PA_00514,Sugar Kiss Melon(8ct),False,Stockable Product,0.0,0.0,00514_20161111,Sugar Kiss Melon (8ct) Produce of U.S.A
+515,PA_00515,Summer Kiss Melon(8ct),False,Stockable Product,0.0,0.0,00515_20161111,Summer Kiss Melon (8ct) Produce of U.S.A
+516,PA_00516,SUN,True,Stockable Product,0.0,0.0,00516_20161111,Sunchoke (20lb) __ Produce of U.S.A
+517,PA_00517,Sweet Lemon,False,Stockable Product,0.0,0.0,00517_20161111,Sweet Lemon (40lb) ___ Produce Of USA
+518,PA_00518,TAMS,True,Stockable Product,0.0,0.0,00518_20161111,Sour Tamarind (16lb) __ Produce of Thailand
+519,PA_00519,TAMSW,True,Stockable Product,0.0,nan,00519_20161111,Sweet Tamarind (16lb) ___ Produce of Thailand
+520,PA_00520,TAN,True,Stockable Product,0.0,0.0,00520_20161111,Tangerine with Leaf (22lb) __ Produce of U.S.A
+521,PA_00521,TANP,True,Stockable Product,0.0,0.0,00521_20161111,Tangerine PERU (CASE) ___ Produce of U.S.A
+522,PA_00522,TARB,True,Stockable Product,0.0,nan,00522_20161111,Big Taro (40lb) ___ Produce of Mexico
+523,PA_00523,TARS,True,Stockable Product,0.0,0.0,00523_20161111,Small Taro (40lb) ___ Produce of China
+524,PA_00524,Thai Basil,True,Stockable Product,0.0,0.0,00524_20161111,Thai Basil (10lb) ___ Produce of U.S.A.********GBP only
+525,PA_00525,THB,False,Stockable Product,0.0,nan,00525_20161111,Big Tong Ho (25lb) ____ Produce of U.S.A
+526,PA_00526,THS,True,Stockable Product,0.0,nan,00526_20161111,Small Tong Ho (20-25lb) ____ Produce of U.S.A.
+527,PA_00527,Tia To,True,Stockable Product,0.0,0.0,00527_20161111,Tia To (60ct) Produce of U.S.A.
+528,PA_00528,TK,True,Stockable Product,0.0,nan,00528_20161111,Ta Ku Choy (30lb) ___ Produce of U.S.A
+529,PA_00529,TOM,True,Stockable Product,0.0,nan,00529_20161111,Tomato (5x5) __ Produce of U.S.A.
+530,PA_00530,TOMC,True,Stockable Product,0.0,0.0,00530_20161111,Cherry Tomato (1lbx12pk) ____ Produce of U.S.A.
+531,PA_00531,TOMR,True,Stockable Product,0.0,nan,00531_20161111,Tomato Roma (25lb) ____ Produce of U.S.A.
+532,PA_00532,TP,True,Stockable Product,0.0,0.0,00532_20161111,Peeled Taro (40lb) _____ Produce of U.S.A
+533,PA_00533,Troyal Papaya,False,Stockable Product,0.0,0.0,00533_20161111,Troyal Papaya(7-8ct)__
+534,PA_00534,TUR,True,Stockable Product,0.0,0.0,00534_20161111,Turmeric (25-30lb) __ Produce of U.S.A.
+535,PA_00535,WAT,True,Stockable Product,0.0,nan,00535_20161111,Watercress (24ct) ___ Produce of U.S.A
+536,PA_00536,WATC,True,Stockable Product,0.0,nan,00536_20161111,Water Chestnut (44lb) __ Produce of China
+537,PA_00537,Watermelon,True,Stockable Product,0.0,nan,00537_20161111,Water Melon (Bin) __ Produce of U.S.A
+538,PA_00538,White Corn,False,Stockable Product,0.0,0.0,00538_20161111,White Corn(case) __
+539,PA_00539,White Nectarines,True,Stockable Product,0.0,nan,00539_20161111,White Nectarines (40-48ct) ___  Produce of U.S.A
+540,PA_00540,White Peach,True,Stockable Product,0.0,nan,00540_20161111,White Peach (32-40CT)  __  Produce of U.S.A***loose
+541,PA_00541,White Shen Choy,False,Stockable Product,0.0,0.0,00541_20161111,White Shen Choy(20lb) ___ Product Of U.S.A
+542,PA_00542,WM,True,Stockable Product,0.0,0.0,00542_20161111,Winter Melon (cs) __ Produce of U.S.A*****TOTAL____________LBS
+543,PA_00543,WMB,True,Stockable Product,0.0,nan,00543_20161111,Winter Melon (bin) __ Produce of U.S.A*****TOTAL____________LBS
+544,PA_00544,Woodear,True,Stockable Product,0.0,nan,00544_20161111,Woodear (6ozx10pk) __ Produce of China
+545,PA_00545,Yampi,False,Stockable Product,0.0,0.0,00545_20161111,Yampi (40lb)
+546,PA_00546,YC,True,Stockable Product,0.0,0.0,00546_20161111,Yu Choy (30lb) __ Produce of U.S.A
+547,PA_00547,YCJ,True,Stockable Product,0.0,0.0,00547_20161111,Yu Choy Tip (25lb) ___ Produce of Mexico
+548,PA_00548,YCS25,False,Stockable Product,0.0,nan,00548_20161111,Yu Choy Sum (25lb) ___ Produce of U.S.A
+549,PA_00549,YCS30,True,Stockable Product,0.0,0.0,00549_20161111,Yu Choy Sum (30lb) ___ Produce of U.S.A
+550,PA_00550,Yellow Date,True,Stockable Product,107.44,53.72,00550_20161111,Yellow Date (30lb) ___
+551,PA_00551,Yellow Nectarine,True,Stockable Product,0.0,0.0,00551_20161111,Yellow Nectarine (32-40CT) ___
+552,PA_00552,Yellow Peach,True,Stockable Product,0.0,0.0,00552_20161111,Yellow Peach(32-40CT) ____
+553,PA_00553,YJ,True,Stockable Product,0.0,nan,00553_20161111,Japanese Yam (40lb) ____ Produce of U.S.A.
+554,PA_00554,YL,True,Stockable Product,0.0,nan,00554_20161111,Yam Leaf (20lb)  ___ Produce of U.S.A
+555,PA_00555,Young Ginger,False,Stockable Product,0.0,0.0,00555_20161111,Young Ginger (30lb) __
+556,PA_00556,YP,True,Stockable Product,0.0,nan,00556_20161111,Purple Yam (30lb) ___ Produce of U.S.A.*****HAWAII
+557,PA_00557,YPC,True,Stockable Product,0.0,0.0,00557_20161111,Purple Yam (30lb) ___ Produce of U.S.A.*****CALIFORNIA
+558,PA_00558,YR,True,Stockable Product,0.0,0.0,00558_20161111,Red Yam (40lb) ___ Produce of U.S.A.
+559,PA_00559,Yuan Huang Pear,False,Stockable Product,0.0,0.0,00559_20161111,Yuan Huang Pear (24-36ct) ___  Produce of U.S.A.
+560,PA_00560,Yuca,True,Stockable Product,0.0,nan,00560_20161111,Yuca (40lb) __ Produce of U.S.A
+561,PA_00561,YY,True,Stockable Product,0.0,0.0,00561_20161111,Yellow Yam (40lb) ___ (____)  Produce of U.S.A.
+562,PA_00562,Empty box,True,Consumable,1.4,0.0,00562_20161111,Empty box for mandarines
+563,PA_00563,Empty Pallets,True,Consumable,0.0,5.0,00563_20161111,Empty Pallets
+564,PA_00564,PMT ADJMT,True,Consumable,0.0,-104.0,00564_20161111,Payment Adjustment
+565,PA_00565,purchase credit,True,Consumable,0.0,22.83582,00565_20161111,Purchase credit
+566,PA_00566,Sales Credit,True,Consumable,0.0,17.0,00566_20161111,Sales Credit
+567,PA_00567,Misc. charge,True,Service,0.0,350.0,00567_20161111,nan
+568,PA_00568,Misc. item,True,Service,0.0,-3500.0,00568_20161111,Misc. charge
+569,PA_00569,Poly Wrap,True,Service,0.0,21.0,00569_20161111,Poly Wrap
+570,PA_00570,Reimb Subt,True,Service,nan,0.0,00570_20161111,Reimbursable Expenses Subtotal
+571,PA_00571,Reimb Group,True,Service,nan,0.0,00571_20161111,Total Reimbursable Expenses
+572,PA_00572,Customer deposit,True,Service,nan,0.0,00572_20161111,Customer deposit
+573,PA_00573,OFFSET ACCOUNT-FORMOSA,False,Service,nan,0.0,00573_20161111,OFFSET A/R TO A/P-FORMOSA
